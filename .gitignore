@@ -1,0 +1,14 @@
+node_modules/
+build/
+coverage/
+packages/*/node_modules/
+docs/api/output.json
+external/
+lerna-debug.log
+.idea
+.vscode
+
+yarn.lock
+pnpm.lock
+
+mrgit.json

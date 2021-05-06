@@ -1,0 +1,15 @@
+"Language: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+msgctxt "insert Button"
+msgid "Button"
+msgstr "Button"
+
+msgctxt "insert Button"
+msgid "Button Id"
+msgstr "Button Id"
+
+msgctxt "insert Button"
+msgid "Button Name"
+msgstr "Button Name"

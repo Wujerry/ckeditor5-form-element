@@ -1,0 +1,15 @@
+"Language-Team: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "insert Button"
+msgid "Button"
+msgstr "按钮"
+
+msgctxt "insert Button"
+msgid "Button Id"
+msgstr "按钮ID"
+
+msgctxt "insert Button"
+msgid "Button Name"
+msgstr "按钮名称"

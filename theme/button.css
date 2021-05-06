@@ -1,0 +1,7 @@
+.form-button::selection {
+	display: none;
+}
+.form-button {
+	margin-left: 3px;
+	margin-right: 3px;
+}
